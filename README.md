@@ -2,15 +2,15 @@
 ssh tunneled ip camera solution based on raspberry pi
 
 ### hardware description
-[ ip camera ] 
-[ ethernet ] 
-[ raspi ]
-[ wifi ]
-[ client router ]
-[ internet ]
-[ office router ]
-[ wifi / ethernet ]
-[ server ]
+* [ ip camera ] 
+* [ ethernet ] 
+* [ raspi ]
+* [ wifi ]
+* [ client router ]
+* [ internet ]
+* [ office router ]
+* [ wifi / ethernet ]
+* [ server ]
 
 ### software description
 * `raspi` acts as a reverse proxy for the `ip camera` on protected wired network connection `ethernet`
